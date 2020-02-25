@@ -1,0 +1,16 @@
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" version="1.1" width="36px" height="36px">
+   <g class="ldl-scale" style="transform-origin: 50% 50%; transform: scale(0.8);">
+      <g class="ldl-ani">
+         <g class="ldl-layer">
+            <g class="ldl-ani" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -0.833333s infinite normal forwards running breath;">
+               <circle fill="#ffdc6c" clip-rule="evenodd" fill-rule="evenodd" r="23.3" cy="37.7" cx="33.3" style="fill: rgb(255, 220, 108);"></circle>
+            </g>
+         </g>
+         <g class="ldl-layer">
+            <g class="ldl-ani" style="transform: scale(0.91); transform-origin: 50px 50px; animation: 1.11111s linear -1.11111s infinite normal forwards running breath;">
+               <path fill="#b5b5b5" clip-rule="evenodd" fill-rule="evenodd" d="M78.5 58.1c.6-1.9.9-3.9.9-5.9 0-10.8-8.8-19.6-19.6-19.6-7.5 0-14 4.2-17.3 10.4-1.2-.4-2.6-.6-3.9-.6-7.2 0-13 5.8-13 13 0 .9.1 1.8.3 2.6-6.6 1-11.7 6.8-11.7 13.7 0 7.7 6.2 13.9 13.9 13.9h48.1c7.7 0 13.9-6.2 13.9-13.9-.1-6.8-5.1-12.5-11.6-13.6z" style="fill: rgb(181, 181, 181);"></path>
+            </g>
+         </g>
+      </g>
+   </g>
+</svg>

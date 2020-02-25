@@ -1,0 +1,468 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#eeeeee;display:block;z-index:1;position:relative" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
+   <defs>
+      <pattern id="pid-0.03572013947579955" x="0" y="0" width="76.80000000000001" height="76.80000000000001" patternUnits="userSpaceOnUse">
+         <g transform="scale(0.30000000000000004)">
+            <defs>
+               <g id="id-0.1419618781169112">
+                  <!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)-->
+                  <style type="text/css">.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#b5b5b5}.st18{fill:#77a4bd}</style>
+                  <path class="st7" d="M73.6,32.8c0.5-1.7,0.8-3.4,0.8-5.3c0-9.6-7.8-17.5-17.5-17.5c-6.7,0-12.5,3.8-15.4,9.3 c-1.1-0.3-2.3-0.5-3.5-0.5c-6.4,0-11.6,5.2-11.6,11.6c0,0.8,0.1,1.6,0.2,2.4c-5.9,0.9-10.4,6-10.4,12.2c0,6.8,5.5,12.4,12.4,12.4 h42.9c6.8,0,12.4-5.5,12.4-12.4C83.8,38.8,79.4,33.7,73.6,32.8z" data-fill="c1" style="fill: rgb(181, 181, 181);"></path>
+                  <g>
+                     <g>
+                        <path class="st18" d="M28.3,66.8l1.5-3.8c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-1.5,3.8c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C27.3,68,28,67.5,28.3,66.8z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M35.7,72.9l3.8-9.9c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-3.8,9.9c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C34.7,74.1,35.5,73.6,35.7,72.9z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M43.2,79l6.1-16c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-6.1,16c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C42.1,80.2,42.9,79.7,43.2,79z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M57,67.9l1.9-4.9c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-1.9,4.9c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C56,69.2,56.8,68.7,57,67.9z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M61.8,81l6.5-18.1c0.4-1-0.2-2.1-1.2-2.5c-1-0.4-2.1,0.2-2.5,1.2l-6.5,18.1c-0.4,1,0.2,2.1,1.2,2.5 c0.2,0.1,0.4,0.1,0.7,0.1C60.8,82.3,61.5,81.8,61.8,81z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M71.9,75.3l3.8-11.7c0.3-1-0.2-2.1-1.2-2.4c-1-0.3-2.1,0.2-2.4,1.2l-3.8,11.7c-0.3,1,0.2,2.1,1.2,2.4 c0.2,0.1,0.4,0.1,0.6,0.1C70.9,76.7,71.6,76.1,71.9,75.3z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M20.1,88.8l5.7-15.4c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-5.7,15.4c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.4,0.1,0.7,0.1C19.1,90,19.8,89.5,20.1,88.8z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M29.7,88.8L33,80c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-3.4,8.8c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C28.7,90,29.4,89.5,29.7,88.8z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M39.4,88.8l0.9-2.4c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-0.9,2.4c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C38.4,90,39.2,89.5,39.4,88.8z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M49,88.8l5.3-13.5c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1l-5.3,13.5c-0.4,1,0.1,2.1,1.1,2.5 C46.8,90,47,90,47.2,90C48,90,48.7,89.5,49,88.8z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                     <g>
+                        <path class="st18" d="M68.6,88.8l2.6-6.8c0.4-1-0.1-2.1-1.1-2.5c-1-0.4-2.1,0.1-2.5,1.1L65,87.4c-0.4,1,0.1,2.1,1.1,2.5 c0.2,0.1,0.5,0.1,0.7,0.1C67.6,90,68.3,89.5,68.6,88.8z" data-fill="c2" style="fill: rgb(119, 164, 189);"></path>
+                     </g>
+                  </g>
+               </g>
+            </defs>
+            <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+            <g data-idx="0" data-dup="" dx="-128" dy="-128" style="transform-origin: -58.5047px 39.4938px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -96.2592 93.9447)" fill="#B3B4B4" cx="69.5" cy="167.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="0" data-dup="" dx="128" dy="-128" style="transform-origin: 197.495px 39.4938px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -96.2592 93.9447)" fill="#B3B4B4" cx="69.5" cy="167.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="1" data-dup="" dx="-128" dy="-128" style="transform-origin: 111.489px -55.5005px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 15.9378 184.9119)" fill="#B3B4B4" cx="239.5" cy="72.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="1" data-dup="" dx="128" dy="-128" style="transform-origin: 367.489px -55.5005px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 15.9378 184.9119)" fill="#B3B4B4" cx="239.5" cy="72.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="2" data-dup="" dx="-128" dy="-128" style="transform-origin: 73.5px -2.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="194" y1="125.5" x2="209" y2="125.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.5" y1="133" x2="201.5" y2="118" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="2" data-dup="" dx="128" dy="-128" style="transform-origin: 329.5px -2.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="194" y1="125.5" x2="209" y2="125.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.5" y1="133" x2="201.5" y2="118" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="3" data-dup="" dx="-128" dy="-128" style="transform-origin: 64px 116px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186" y1="244" x2="198" y2="244" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="250" x2="192" y2="238" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="3" data-dup="" dx="128" dy="-128" style="transform-origin: 320px 116px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186" y1="244" x2="198" y2="244" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="250" x2="192" y2="238" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="4" data-dup="" dx="-128" dy="-128" style="transform-origin: -107.5px -81.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="46.5" x2="29" y2="46.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.5" y1="55" x2="20.5" y2="38" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="4" data-dup="" dx="128" dy="-128" style="transform-origin: 148.5px -81.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="46.5" x2="29" y2="46.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.5" y1="55" x2="20.5" y2="38" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="5" data-dup="" dx="-128" dy="-128" style="transform-origin: 9.52531px -55.8316px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.4903 -0.8715 0.8715 0.4903 7.2038 156.6452)" fill="#B3B4B4" cx="137.531" cy="72.163" rx="6.525" ry="6.525" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="5" data-dup="" dx="128" dy="-128" style="transform-origin: 265.525px -55.8316px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.4903 -0.8715 0.8715 0.4903 7.2038 156.6452)" fill="#B3B4B4" cx="137.531" cy="72.163" rx="6.525" ry="6.525" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="6" data-dup="" dx="-128" dy="-128" style="transform-origin: 15.4918px 88.4925px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -109.6566 158.3945)" fill="#B3B4B4" cx="143.5" cy="216.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="6" data-dup="" dx="128" dy="-128" style="transform-origin: 271.492px 88.4925px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -109.6566 158.3945)" fill="#B3B4B4" cx="143.5" cy="216.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="7" data-dup="" dx="-128" dy="-128" style="transform-origin: -37.0041px -92.0005px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 0.2332 72.5839)" fill="#B3B4B4" cx="91" cy="36" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="7" data-dup="" dx="128" dy="-128" style="transform-origin: 218.996px -92.0005px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 0.2332 72.5839)" fill="#B3B4B4" cx="91" cy="36" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="8" data-dup="" dx="-128" dy="-128" style="transform-origin: 120.988px 20.9965px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -34.1432 212.4976)" fill="#B3B4B4" cx="249" cy="149" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="8" data-dup="" dx="128" dy="-128" style="transform-origin: 376.988px 20.9965px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -34.1432 212.4976)" fill="#B3B4B4" cx="249" cy="149" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="9" data-dup="" dx="-128" dy="-128" style="transform-origin: -121.003px 111.99px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -163.3891 70.8358)" fill="#B3B4B4" cx="7" cy="240" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="9" data-dup="" dx="128" dy="-128" style="transform-origin: 134.997px 111.99px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -163.3891 70.8358)" fill="#B3B4B4" cx="7" cy="240" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="10" data-dup="" dx="-128" dy="-128" style="transform-origin: 5.03452px 11.0023px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g transform="matrix(0.9912 0.1325 -0.1325 0.9912 19.5946 -16.4002) translate(133,138.9995) scale(0.6222222222222222)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="10" data-dup="" dx="128" dy="-128" style="transform-origin: 261.035px 11.0023px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g transform="matrix(0.9912 0.1325 -0.1325 0.9912 19.5946 -16.4002) translate(133,138.9995) scale(0.6222222222222222)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="11" data-dup="" dx="-128" dy="-128" style="transform-origin: 57.0963px -85.7338px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g transform="matrix(0.8102 -0.5862 0.5862 0.8102 10.3558 116.5189) translate(185.074,42.271) scale(0.3916444444444444)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="11" data-dup="" dx="128" dy="-128" style="transform-origin: 313.096px -85.7338px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g transform="matrix(0.8102 -0.5862 0.5862 0.8102 10.3558 116.5189) translate(185.074,42.271) scale(0.3916444444444444)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="12" data-dup="" dx="-128" dy="-128" style="transform-origin: 96.7244px 65.426px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g transform="matrix(0.7153 0.6988 -0.6988 0.7153 199.1367 -101.9661) translate(224.712,193.41799999999998) scale(0.3647555555555556)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="12" data-dup="" dx="128" dy="-128" style="transform-origin: 352.724px 65.426px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g transform="matrix(0.7153 0.6988 -0.6988 0.7153 199.1367 -101.9661) translate(224.712,193.41799999999998) scale(0.3647555555555556)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="13" data-dup="" dx="-128" dy="-128" style="transform-origin: -81.38px -21.2677px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g transform="matrix(0.7812 0.6242 -0.6242 0.7812 76.8196 -5.7423) translate(46.602000000000004,106.7265) scale(0.3879111111111111)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="13" data-dup="" dx="128" dy="-128" style="transform-origin: 174.62px -21.2677px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g transform="matrix(0.7812 0.6242 -0.6242 0.7812 76.8196 -5.7423) translate(46.602000000000004,106.7265) scale(0.3879111111111111)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="14" data-dup="" dx="-128" dy="-128" style="transform-origin: -58.7825px 101.617px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,-128)">
+                  <g transform="matrix(0.7381 -0.6747 0.6747 0.7381 -136.8065 106.8361) translate(69.2025,229.6265) scale(0.5011777777777778)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="14" data-dup="" dx="128" dy="-128" style="transform-origin: 197.218px 101.617px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,-128)">
+                  <g transform="matrix(0.7381 -0.6747 0.6747 0.7381 -136.8065 106.8361) translate(69.2025,229.6265) scale(0.5011777777777778)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="0" data-dup="" dx="-128" dy="128" style="transform-origin: -58.5047px 295.494px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -96.2592 93.9447)" fill="#B3B4B4" cx="69.5" cy="167.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="0" data-dup="" dx="128" dy="128" style="transform-origin: 197.495px 295.494px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -96.2592 93.9447)" fill="#B3B4B4" cx="69.5" cy="167.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="1" data-dup="" dx="-128" dy="128" style="transform-origin: 111.489px 200.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 15.9378 184.9119)" fill="#B3B4B4" cx="239.5" cy="72.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="1" data-dup="" dx="128" dy="128" style="transform-origin: 367.489px 200.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 15.9378 184.9119)" fill="#B3B4B4" cx="239.5" cy="72.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="2" data-dup="" dx="-128" dy="128" style="transform-origin: 73.5px 253.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="194" y1="125.5" x2="209" y2="125.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.5" y1="133" x2="201.5" y2="118" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="2" data-dup="" dx="128" dy="128" style="transform-origin: 329.5px 253.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="194" y1="125.5" x2="209" y2="125.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.5" y1="133" x2="201.5" y2="118" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="3" data-dup="" dx="-128" dy="128" style="transform-origin: 64px 372px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186" y1="244" x2="198" y2="244" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="250" x2="192" y2="238" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="3" data-dup="" dx="128" dy="128" style="transform-origin: 320px 372px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="186" y1="244" x2="198" y2="244" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="192" y1="250" x2="192" y2="238" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="4" data-dup="" dx="-128" dy="128" style="transform-origin: -107.5px 174.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="46.5" x2="29" y2="46.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.5" y1="55" x2="20.5" y2="38" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="4" data-dup="" dx="128" dy="128" style="transform-origin: 148.5px 174.5px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="12" y1="46.5" x2="29" y2="46.5" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                     <line fill="none" stroke="#B3B4B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="20.5" y1="55" x2="20.5" y2="38" data-stroke="c4" style="stroke: rgb(179, 180, 181);"></line>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="5" data-dup="" dx="-128" dy="128" style="transform-origin: 9.52531px 200.168px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.4903 -0.8715 0.8715 0.4903 7.2038 156.6452)" fill="#B3B4B4" cx="137.531" cy="72.163" rx="6.525" ry="6.525" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="5" data-dup="" dx="128" dy="128" style="transform-origin: 265.525px 200.168px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.4903 -0.8715 0.8715 0.4903 7.2038 156.6452)" fill="#B3B4B4" cx="137.531" cy="72.163" rx="6.525" ry="6.525" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="6" data-dup="" dx="-128" dy="128" style="transform-origin: 15.4918px 344.493px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -109.6566 158.3945)" fill="#B3B4B4" cx="143.5" cy="216.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="6" data-dup="" dx="128" dy="128" style="transform-origin: 271.492px 344.493px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -109.6566 158.3945)" fill="#B3B4B4" cx="143.5" cy="216.5" rx="5.5" ry="5.5" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="7" data-dup="" dx="-128" dy="128" style="transform-origin: -37.0041px 163.999px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 0.2332 72.5839)" fill="#B3B4B4" cx="91" cy="36" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="7" data-dup="" dx="128" dy="128" style="transform-origin: 218.996px 163.999px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 0.2332 72.5839)" fill="#B3B4B4" cx="91" cy="36" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="8" data-dup="" dx="-128" dy="128" style="transform-origin: 120.988px 276.996px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -34.1432 212.4976)" fill="#B3B4B4" cx="249" cy="149" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="8" data-dup="" dx="128" dy="128" style="transform-origin: 376.988px 276.996px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -34.1432 212.4976)" fill="#B3B4B4" cx="249" cy="149" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="9" data-dup="" dx="-128" dy="128" style="transform-origin: -121.003px 367.99px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -163.3891 70.8358)" fill="#B3B4B4" cx="7" cy="240" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="9" data-dup="" dx="128" dy="128" style="transform-origin: 134.997px 367.99px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <ellipse transform="matrix(0.7249 -0.6888 0.6888 0.7249 -163.3891 70.8358)" fill="#B3B4B4" cx="7" cy="240" rx="4" ry="4" data-fill="c3" style="fill: rgb(179, 180, 180);"></ellipse>
+               </g>
+            </g>
+            <g data-idx="10" data-dup="" dx="-128" dy="128" style="transform-origin: 5.03452px 267.002px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g transform="matrix(0.9912 0.1325 -0.1325 0.9912 19.5946 -16.4002) translate(133,138.9995) scale(0.6222222222222222)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="10" data-dup="" dx="128" dy="128" style="transform-origin: 261.035px 267.002px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g transform="matrix(0.9912 0.1325 -0.1325 0.9912 19.5946 -16.4002) translate(133,138.9995) scale(0.6222222222222222)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="11" data-dup="" dx="-128" dy="128" style="transform-origin: 57.0963px 170.266px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g transform="matrix(0.8102 -0.5862 0.5862 0.8102 10.3558 116.5189) translate(185.074,42.271) scale(0.3916444444444444)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="11" data-dup="" dx="128" dy="128" style="transform-origin: 313.096px 170.266px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g transform="matrix(0.8102 -0.5862 0.5862 0.8102 10.3558 116.5189) translate(185.074,42.271) scale(0.3916444444444444)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="12" data-dup="" dx="-128" dy="128" style="transform-origin: 96.7244px 321.426px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g transform="matrix(0.7153 0.6988 -0.6988 0.7153 199.1367 -101.9661) translate(224.712,193.41799999999998) scale(0.3647555555555556)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="12" data-dup="" dx="128" dy="128" style="transform-origin: 352.724px 321.426px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g transform="matrix(0.7153 0.6988 -0.6988 0.7153 199.1367 -101.9661) translate(224.712,193.41799999999998) scale(0.3647555555555556)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="13" data-dup="" dx="-128" dy="128" style="transform-origin: -81.38px 234.732px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g transform="matrix(0.7812 0.6242 -0.6242 0.7812 76.8196 -5.7423) translate(46.602000000000004,106.7265) scale(0.3879111111111111)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="13" data-dup="" dx="128" dy="128" style="transform-origin: 174.62px 234.732px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g transform="matrix(0.7812 0.6242 -0.6242 0.7812 76.8196 -5.7423) translate(46.602000000000004,106.7265) scale(0.3879111111111111)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="14" data-dup="" dx="-128" dy="128" style="transform-origin: -58.7825px 357.617px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(-128,128)">
+                  <g transform="matrix(0.7381 -0.6747 0.6747 0.7381 -136.8065 106.8361) translate(69.2025,229.6265) scale(0.5011777777777778)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g data-idx="14" data-dup="" dx="128" dy="128" style="transform-origin: 197.218px 357.617px; animation: 1s linear 0s infinite normal forwards running beat;">
+               <g transform="translate(128,128)">
+                  <g transform="matrix(0.7381 -0.6747 0.6747 0.7381 -136.8065 106.8361) translate(69.2025,229.6265) scale(0.5011777777777778)">
+                     <g data-icon="" transform="scale(0.9)">
+                        <use xlink:href="#id-0.1419618781169112" x="-50" y="-50"></use>
+                     </g>
+                  </g>
+               </g>
+            </g>
+         </g>
+      </pattern>
+   </defs>
+   <rect x="0" y="0" width="100%" height="100%" fill="url(#pid-0.03572013947579955)"></rect>
+</svg>
