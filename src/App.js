@@ -55,7 +55,7 @@ const theme = createMuiTheme({
 
 export const WeatherContext = React.createContext();
 
-export function CityDialog() {
+function CityDialog() {
   const [weather, setWeather] = useContext(WeatherContext);
   const { t } = useTranslation();
 
