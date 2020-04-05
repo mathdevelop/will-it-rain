@@ -1,11 +1,11 @@
-# Vai Chover?
+# Will It Rain?
 
-**Vai Chover** identifica se há possibilidade de chuva na cidade obtida pela localização ou informada manualmente pelo usuário, respondendo à esta pergunta sem dados técnicos e gráficos difíceis de interpretar. Veja abaixo o que foi utilizado no projeto:
+**Will It Rain** identifies whether there is a possibility of rain in the city obtained by the location or informed manually by the user, answering this question without technical data and graphics difficult to interpret. See below what was used in the project: *[Leia em Português](README.pt.md)
 
 - React
 - React Hooks
 - Context API
-- Consulta à API (axios)
-- Internacionalização (Português / Inglês - i18next)
-- Roteamento (React Router)
+- API query (axios)
+- Internationalization (Portuguese / English - i18next)
+- Routing (React Router)
 - Material Design (Material-UI)
